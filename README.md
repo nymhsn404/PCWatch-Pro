@@ -28,8 +28,4 @@ PCWatch Pro is a Windows application with a local web dashboard for reviewing PC
 
 PCWatch Pro is intended for authorized, local PC monitoring. Review its permissions and data collection behavior before use. Do not use it to monitor other people without appropriate authorization and consent.
 
-## Developer
-
-**Nayeem Hassan**
-
 Version: 1.0.0
